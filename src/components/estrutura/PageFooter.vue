@@ -21,7 +21,7 @@
         </section>
         <section>
             <div class="text-center">
-                <p>© {{ anoAtual }} - HostGator Brasil - Todos os direitos reservados</p>
+                <p>© {{ anoAtual }} - HostNator Brasil - Todos os direitos reservados</p>
                 
                 <br/>
                 <p>Reprodução do site feito por Adilson Alves Mattos</p>
